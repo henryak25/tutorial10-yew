@@ -26,5 +26,5 @@ This repository is divided to branches that correspond to the blog post sections
 ![alt text](chat.png)
 
 ### 3.2: Be Creative!
-![alt text](chat.png)
+![alt text](creative.png)
 added hover effect, added profile picture, and also darker theme
